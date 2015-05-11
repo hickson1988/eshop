@@ -1,2 +1,3 @@
-E-shop made with CodeIgniter framework
+E-shop 
 =====
+ This project was made with the CodeIgniter framework.
